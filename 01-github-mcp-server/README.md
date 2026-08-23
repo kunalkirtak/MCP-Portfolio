@@ -163,7 +163,7 @@ This starts the server and opens the MCP Inspector UI, where you can call tools,
 
 ## Screenshots    - running locally the output screenshot
 All test passed
-
+![chat](screenshots/chat.png)
 
 ## 12. Example Workflows
 
