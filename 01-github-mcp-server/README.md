@@ -84,12 +84,18 @@ github-mcp-server/
 ├── server.py
 ├── client_demo.py
 ├── requirements.txt
+├── README.md
 ├── .env.example
 ├── .gitignore
-├── README.md
+├── notebook/
+│   └── github_mcp_server_demo.ipynb
 │
-└── tests/
-    └── test_server.py
+├── tests/
+│   └── test_server.py
+│
+└── screenshots/
+    ├── mcp-demo.png
+    └── tests-passed.png
 ```
 
 ## 6. Technologies
