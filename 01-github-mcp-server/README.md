@@ -2,8 +2,6 @@
 
 A compact, portfolio-quality **Model Context Protocol (MCP) server** that lets an AI agent search GitHub repositories, inspect repository metadata, list issues, and read a repository's README — all through the official GitHub REST API. Project 1 of an MCP portfolio, built with the **MCP Python SDK v2**.
 
-> Runs entirely on the free tier: no OpenAI/Anthropic/Gemini API key needed, no Docker, no database. Just Python + the GitHub REST API.
-
 ---
 
 ## Quick Start (Google Colab)
