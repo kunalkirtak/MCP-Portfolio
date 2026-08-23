@@ -161,6 +161,10 @@ mcp dev server.py
 
 This starts the server and opens the MCP Inspector UI, where you can call tools, read resources, and fetch prompts by hand. The Inspector is a development convenience only — it is **not required** to run or test the project; `client_demo.py` and `pytest` work independently of it.
 
+## Screenshots    - running locally the output screenshot
+All test passed
+
+
 ## 12. Example Workflows
 
 Once connected via an MCP client (or through the Inspector), you can ask an agent things like:
