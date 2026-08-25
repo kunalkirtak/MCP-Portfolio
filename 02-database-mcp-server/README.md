@@ -282,9 +282,10 @@ database-mcp-server/
 ├── database.py
 ├── seed_database.py
 ├── requirements.txt
-├── .gitignore
 ├── README.md
-│
+├── screenshot/
+├── notebook/
+│    └── database_mcp_server.ipynb
 └── tests/
     └── test_server.py
 ```
