@@ -302,7 +302,8 @@ crm-mcp-server/
 ├── .gitignore
 ├── README.md
 ├── screenshot/
-│
+├── notebook/
+│   └── CRM_MCP_Server.ipynb
 └── tests/
     └── test_server.py
 ```
