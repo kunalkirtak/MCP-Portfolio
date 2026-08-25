@@ -301,6 +301,7 @@ crm-mcp-server/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
+├── screenshot/
 │
 └── tests/
     └── test_server.py
