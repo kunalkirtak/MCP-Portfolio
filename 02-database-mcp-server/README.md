@@ -1,7 +1,5 @@
 # Database MCP Server
 
-**Project 2** of my MCP portfolio (Project 1: a GitHub MCP Server).
-
 A Model Context Protocol (MCP) server that exposes a small, realistic
 e-commerce analytics database (SQLite) to an AI agent through **safe,
 parameterized tools** — with no arbitrary SQL execution.
